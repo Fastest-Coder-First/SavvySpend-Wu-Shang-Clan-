@@ -1,8 +1,10 @@
 # Fastest Coder First Hackathon
 
+<h2>Project: Money Tracking website with voice command</h2>
+
 Figma prototype link: https://www.figma.com/file/gv1KGCHrne3whhJDDX0JKV/Expense_Tracker?type=design&node-id=3%3A95&mode=design&t=5x9Lz46sJMfGawcc-1
 
-## Team members
+## Team member
 Divyam Malik
 <br>
 Akshavya Aggarwal
@@ -12,7 +14,6 @@ Rajbeer Singh
 Viren Walia
 <br>
 
-<h2>Money Tracking website with voice command</h2>
 <h2>Screenshot</h2>
 <img src="money.png">
 
